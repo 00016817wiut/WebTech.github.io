@@ -29,7 +29,7 @@ li {
 }
 
 .backimage {
-  background-image: url(/images/backimgalternative.jpg);
+  background-image: url(images/backimgalternative.jpg);
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -349,7 +349,7 @@ footer a:hover {
 }
 @media only screen and (max-width: 890px) {
   .backimage {
-    background-image: url(/images/backimg2.jpg);
+    background-image: url(images/backimg2.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -393,7 +393,7 @@ footer a:hover {
 /*---- PHONE -----*/
 @media only screen and (max-width: 750px) {
   .backimage {
-    background-image: url(/images/backimage2.jpg);
+    background-image: url(images/backimage2.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -433,7 +433,7 @@ footer a:hover {
 }
 @media only screen and (max-width: 550px) {
   .backimage {
-    background-image: url(/images/smallbackimg.jpg);
+    background-image: url(images/smallbackimg.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
