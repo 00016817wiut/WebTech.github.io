@@ -25,12 +25,12 @@ h2:hover {
 /*--- images ---*/
 .imgshka {
   height: 400px;
-  background-image: url(/images/music.jpeg);
+  background-image: url(images/music.jpeg);
   background-position: center;
 }
 .backimg-div {
   height: 400px;
-  background-image: url(/images/office.jpg);
+  background-image: url(images/office.jpg);
   background-position: center;
 }
 
