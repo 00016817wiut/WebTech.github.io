@@ -73,3 +73,38 @@ button:hover {
   background-image: linear-gradient(45deg, rgb(111, 0, 255), rgb(178, 0, 223));
   color: white;
 }
+@media only screen and (max-width: 480px) {
+  form {
+    margin-top: 30%;
+    background-color: rgb(217, 171, 255);
+    width: 100%;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 20px 40px black;
+    position: relative;
+  }
+  .input-box {
+    margin: 15px auto;
+    width: 80%;
+    position: relative;
+    box-shadow: 0 8px 10px -10px black;
+    border: 1px solid rgb(84, 0, 139);
+  }
+  button {
+    display: inline-block;
+    padding: 0.5rem 0.7rem;
+    font-size: 16px;
+    border: none;
+    transition: 0.6s;
+    margin-right: 5px;
+    border: 1px solid black;
+  }
+  .a-btn {
+    padding: 0.5rem 0.7rem;
+    background-color: rgb(233, 233, 233);
+    color: black;
+    transition: 0.6s;
+    border: 1px solid black;
+  }
+}
+
