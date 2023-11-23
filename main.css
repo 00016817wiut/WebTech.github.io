@@ -490,17 +490,17 @@ footer a:hover {
     padding: 0;
   }
   .short-info-section {
-    height: 2400px;
+    height: 2900px;
   }
   .grid-child {
     margin: 0 15px;
     text-align: center;
     border: 1px solid grey;
-    height: 700px;
+    height: 860px;
     margin-bottom: 50px;
   }
   .info-container {
-    height: 640px;
+    height: 800px;
   }
 
   .footer-child {
@@ -514,6 +514,10 @@ footer a:hover {
   .section-one-text {
     display: none;
   }
+  .learnbtn {
+    margin-top: 50px;
+  }
+}
   .learnbtn {
     margin-top: 50px;
   }
