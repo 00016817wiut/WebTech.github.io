@@ -73,7 +73,7 @@ button:hover {
   background-image: linear-gradient(45deg, rgb(111, 0, 255), rgb(178, 0, 223));
   color: white;
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 500px) {
   form {
     margin-top: 30%;
     background-color: rgb(217, 171, 255);
