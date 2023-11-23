@@ -14,4 +14,4 @@ To install the project, follow these guidelines:
 4) In extracted zip file open folder called “Course Work” through recommended application. 
 5) To run the code properly, you are required to install extension called “Live server”.
 6) After installation, open “index.html” and press on the right button of mouse and choose “Open with Live Server.
-7) 7) You are done with installing and running the code. Now you can test it.
+7) You are done with installing and running the code. Now you can test it.
